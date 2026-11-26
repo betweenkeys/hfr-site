@@ -154,3 +154,8 @@ hr.rule { border: 0; border-top: 1px solid #777; width: 50%; margin: 3rem 0 1.5r
   hr.rule { width: 100%; }
   .right { text-align: left; }
 }
+
+/* Crops that match the old Squarespace layout */
+.duo figure:nth-child(1) img, .duo figure:nth-child(3) img { aspect-ratio: 342 / 400; object-fit: cover; }
+.duo figure:nth-child(2) img { aspect-ratio: 459 / 318; object-fit: cover; }
+.stay > img { aspect-ratio: 342 / 441; object-fit: cover; width: 100%; }
