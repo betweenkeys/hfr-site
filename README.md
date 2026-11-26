@@ -39,7 +39,7 @@ Every push to `main` redeploys automatically.
 ## Open items before launch
 
 - Images on the home, Yani and Shaah pages still load from Squarespace's image server. Replace them with files in `assets/img/` before Squarespace is cancelled.
-- Fonts are free stand-ins (Libre Bodoni, Libre Caslon Text). The originals are LTC Bodoni 175 and Adobe Caslon Pro (Adobe Fonts).
+- Fonts are free Google Fonts (Libre Bodoni, Libre Caslon Text), chosen as close matches to the Squarespace originals (LTC Bodoni 175, Adobe Caslon Pro), which need an Adobe Fonts subscription.
 - Contact email is houseoffluidreflections@gmail.com in `contact/index.html`. Update it when Zoho mail is set up.
 - Shaah's Visuals, Music, Photography and Canvas Art pages are stubs.
 - Newsletter signup is replaced by a link to the free Patreon tier.
