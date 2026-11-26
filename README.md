@@ -23,7 +23,7 @@ _headers                Security and caching headers (Cloudflare Pages)
 
 **Reorder or add shop items.** Edit `data/products.json`. Items show in the order listed. Each item needs `name`, `price`, `category`, `url` (the product page on the Square store) and `image`. Categories must match an `id` in the `categories` list.
 
-**Change colors or fonts.** Edit the variables at the top of `assets/css/site.css`.
+**Change colors or fonts.** Edit the variables at the top of `assets/css/site.css`, then bump the `?v=` number on the stylesheet link in each page so browsers pick up the change.
 
 **Change page text.** Edit the page's `index.html` directly.
 
