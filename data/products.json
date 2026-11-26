@@ -1,0 +1,291 @@
+{
+  "_note": "Shop order matches the old Squarespace shop. Edit this list to reorder or add items; url and image come from the Square Online store.",
+  "categories": [
+    {
+      "id": "all",
+      "label": "All"
+    },
+    {
+      "id": "feral-fxckin-fairy",
+      "label": "Feral Fxckin Fairy"
+    },
+    {
+      "id": "portal-projections-x-atd",
+      "label": "Portal Projections x ATD"
+    },
+    {
+      "id": "mcp-x-we-are-the-ghor",
+      "label": "MCP x We Are the Ghor"
+    },
+    {
+      "id": "living-artists",
+      "label": "Living Artists"
+    },
+    {
+      "id": "gryskll",
+      "label": "GRYSKLL"
+    },
+    {
+      "id": "dragons-pitchfork",
+      "label": "Dragon's Pitchfork"
+    },
+    {
+      "id": "classics",
+      "label": "Classics"
+    }
+  ],
+  "products": [
+    {
+      "name": "Living Art(ist) Cropped Tee",
+      "price": "$29.00",
+      "category": "living-artists",
+      "url": "https://houseoffluidreflections.square.site/product/living-art-ist-cropped-tee/UI6UUS7IIVVGQJQBYAC2MWHG",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/L5ZIKTFXHGAKBYGGFV42XTDS.jpeg"
+    },
+    {
+      "name": "Living Art(ist) Unisex T-shirt",
+      "price": "$30.00",
+      "category": "living-artists",
+      "url": "https://houseoffluidreflections.square.site/product/living-art-ist-unisex-t-shirt/4VJZZIUN5DXNFEZAI332CCW2",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/WMN57ZFWITIJG6W47PPRYDAF.jpeg"
+    },
+    {
+      "name": "Living Art(ist) Unisex Hoodie",
+      "price": "$59.99",
+      "category": "living-artists",
+      "url": "https://houseoffluidreflections.square.site/product/living-art-ist-unisex-hoodie/XTO5YQD4CZQNF2SP2IYWRW3D",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/AYEHE5IILOE7WOCCFYN2PV7Q.jpeg"
+    },
+    {
+      "name": "FFF Cropped Pole Tee",
+      "price": "$29.00",
+      "category": "feral-fxckin-fairy",
+      "url": "https://houseoffluidreflections.square.site/product/fff-cropped-pole-tee/HHQ4AZWBL2KQRBCIOKDQ346R",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/FMI7DFTJFVQ7QMNKXRC73JWK.jpeg"
+    },
+    {
+      "name": "Feral Fxckin Fairy Pole Shorts",
+      "price": "$33.00",
+      "category": "feral-fxckin-fairy",
+      "url": "https://houseoffluidreflections.square.site/product/feral-fxckin-fairy-pole-shorts/GBGPY6MP4SY26OK2KEJ72VDX",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/YVWL7Z5SNPTOPYZZ46DYFBK2.jpeg"
+    },
+    {
+      "name": "Feral Fxckin Fairy Unisex Hoodie",
+      "price": "$59.99",
+      "category": "feral-fxckin-fairy",
+      "url": "https://houseoffluidreflections.square.site/product/feral-fxckin-fairy-unisex-hoodie/7U7D6FRINLHYMTDJHNVRTXFE",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/RVXOUWG7UOYJCWHJNTKQ2Q7Z.jpeg"
+    },
+    {
+      "name": "Feral Fxckin Fairy Dad Hat",
+      "price": "$20.00",
+      "category": "feral-fxckin-fairy",
+      "url": "https://houseoffluidreflections.square.site/product/feral-fxckin-fairy-dad-hat/PMWPODFMFEPHQBMWO75MHLFV",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/CIB43EPVCWZCE47WJPZPSY7B.jpeg"
+    },
+    {
+      "name": "FFF Distressed Dad Hat",
+      "price": "$22.99",
+      "category": "feral-fxckin-fairy",
+      "url": "https://houseoffluidreflections.square.site/product/fff-distressed-dad-hat/LBMMKVOT4EZAUEKSC26BCTAS",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/4KZGTQBP73HKSS7WSOPHSWPY.jpeg"
+    },
+    {
+      "name": "FFF Vintage Cotton Twill Cap",
+      "price": "$22.00",
+      "category": "feral-fxckin-fairy",
+      "url": "https://houseoffluidreflections.square.site/product/fff-vintage-cotton-twill-cap/367N7VUI5JRW5UIOF6HJX6C7",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/7I3GKBLUOMUIZDI2YI5OTHJP.jpeg"
+    },
+    {
+      "name": "FFF Words Are Spells Pillow",
+      "price": "$30.95",
+      "category": "feral-fxckin-fairy",
+      "url": "https://houseoffluidreflections.square.site/product/fff-words-are-spells-pillow/HMPZQMTENEKW3AC2DFRCRDNG",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/B7GHVBEBGFI7WS3IGGVI33KQ.jpeg"
+    },
+    {
+      "name": "FFF Words Are Spells Cropped Tee",
+      "price": "$29.00",
+      "category": "feral-fxckin-fairy",
+      "url": "https://houseoffluidreflections.square.site/product/fff-words-are-spells-cropped-tee/ORCOD6WYAQTNRAFSCEERRQDC",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/TN4IWGBCZ4YZR6O2UZLYYRR6.jpeg"
+    },
+    {
+      "name": "FFF Words Are Spells Unisex Hoodie",
+      "price": "$59.99",
+      "category": "feral-fxckin-fairy",
+      "url": "https://houseoffluidreflections.square.site/product/fff-words-are-spells-unisex-hoodie/25B6NGTWRVZ2Q6MGSW5MGIQV",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/LZOIJKCB2QRTMMCBET74U362.jpeg"
+    },
+    {
+      "name": "Feral Fxckin Fairy Tank Top",
+      "price": "$33.00",
+      "category": "feral-fxckin-fairy",
+      "url": "https://houseoffluidreflections.square.site/product/feral-fxckin-fairy-tank-top/QM5CKFERFGHRJNNGI4B2VPEW",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/KU5IN2XMRZOC7GREBQGBLZAX.jpeg"
+    },
+    {
+      "name": "FFF Aerialist DND Cropped Tee",
+      "price": "$29.00",
+      "category": "feral-fxckin-fairy",
+      "url": "https://houseoffluidreflections.square.site/product/fff-aerialist-dnd-cropped-tee/FK5XHKPEIPPPLAJ5466CNYFO",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/MAPICD2LSQTMRM7BUFJSTB5Y.jpeg"
+    },
+    {
+      "name": "FFF Aerialist DND Unisex Hoodie",
+      "price": "$59.99",
+      "category": "feral-fxckin-fairy",
+      "url": "https://houseoffluidreflections.square.site/product/fff-aerialist-dnd-unisex-hoodie/IGUO66E37TXJVOVIDMNAPJ6G",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/V2BFGZGO6WRVMKD36O2NIL4G.jpeg"
+    },
+    {
+      "name": "Floral Projection Pole Top",
+      "price": "$29.99",
+      "category": "portal-projections-x-atd",
+      "url": "https://houseoffluidreflections.square.site/product/floral-projection-pole-top/L5SXJFAIORPDIXGZJ5MSDAS2",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/5JWFSZNZZZNONC2CWXZUNXB2.jpeg"
+    },
+    {
+      "name": "ATD Pole Top",
+      "price": "$29.99",
+      "category": "portal-projections-x-atd",
+      "url": "https://houseoffluidreflections.square.site/product/atd-pole-top/VKTNVURXSFXUQHLJ2BR4ND3T",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/Z3JZ6W4L7GTIQEYFZUAH5N42.jpeg"
+    },
+    {
+      "name": "Divine 9 Pole Top",
+      "price": "$29.99",
+      "category": "portal-projections-x-atd",
+      "url": "https://houseoffluidreflections.square.site/product/divine-9-pole-top/LXOWQ2S5UHJAURS5TBPAOBSL",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/SXT2GTXGWW33S6OD7YHIQG4J.jpeg"
+    },
+    {
+      "name": "Divine 9 Cropped Windbreaker",
+      "price": "$45.00",
+      "category": "portal-projections-x-atd",
+      "url": "https://houseoffluidreflections.square.site/product/divine-9-cropped-windbreaker/4IJEPMWQBUD5YTGSHOM7TUO2",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/E6U5KFFSFEWBJVFBSM62OWPC.jpeg"
+    },
+    {
+      "name": "Floral Projections Premium Pillow",
+      "price": "$30.95",
+      "category": "portal-projections-x-atd",
+      "url": "https://houseoffluidreflections.square.site/product/floral-projections-premium-pillow/5BDUYU5KPG6BMJ3WJO62NF76",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/XGJJAJCW2SV6BBLQB5NCPXML.jpeg"
+    },
+    {
+      "name": "A Tension Deficit Premium Pillow",
+      "price": "$26.50 - $29.50",
+      "category": "portal-projections-x-atd",
+      "url": "https://houseoffluidreflections.square.site/product/a-tension-deficit-premium-pillow/MHM33LTWUWIAVAZEH4OFYHXA",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/43TOT2GH6UWYELJC5JIYM6GA.jpeg"
+    },
+    {
+      "name": "Divine 9 Premium Pillow",
+      "price": "$30.95",
+      "category": "portal-projections-x-atd",
+      "url": "https://houseoffluidreflections.square.site/product/divine-9-premium-pillow/NYARUQW77NSRQMIJU5AB4Z6X",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/PVNWE7RN6O25OCYWAN4ANQFK.jpeg"
+    },
+    {
+      "name": "Dues We the eviL Pitchfork Hoodie",
+      "price": "$59.99",
+      "category": "mcp-x-we-are-the-ghor",
+      "url": "https://houseoffluidreflections.square.site/product/dues-we-the-evil-pitchfork-hoodie/77CAG3ZVV7QKURBSWTQGIEKN",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/UK2INH7IDAKBWERRNYP34OTF.jpeg"
+    },
+    {
+      "name": "we are the Ghor Hoodie",
+      "price": "$59.99",
+      "category": "mcp-x-we-are-the-ghor",
+      "url": "https://houseoffluidreflections.square.site/product/we-are-the-ghor-hoodie/7FPDQO4NBHJLJNQOTYTGEWLD",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/JB5IYUV7Y5SXCHGUTX6A3Y2C.jpeg"
+    },
+    {
+      "name": "Greed We the eviL Pitchfork Hoodie",
+      "price": "$59.99",
+      "category": "mcp-x-we-are-the-ghor",
+      "url": "https://houseoffluidreflections.square.site/product/greed-we-the-evil-pitchfork-hoodie/FGFK5URHM5YLC4R3AD5IRKNY",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/BTAW2T5EFI4EWPYKAM47PD5D.jpeg"
+    },
+    {
+      "name": "Golden GRYSKLL Unisex Hoodie",
+      "price": "$59.99",
+      "category": "gryskll",
+      "url": "https://houseoffluidreflections.square.site/product/golden-gryskll-unisex-hoodie/XOUF7RYVREQXVWFIFCSSTKUP",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/QXKAJHZ3FATOTYKDMK7EELQG.jpeg"
+    },
+    {
+      "name": "GRYSKLLy Ribbed Knit Beanie | Atlantis",
+      "price": "$22.50",
+      "category": "gryskll",
+      "url": "https://houseoffluidreflections.square.site/product/grysklly-ribbed-knit-beanie-atlantis/6WM7R6MLHN5OVIZSKCGNJWUZ",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/V4T3NOAWVZWHN6APIUARASBK.jpeg"
+    },
+    {
+      "name": "GRYSKLL GRYScale Unisex Tee",
+      "price": "$30.00",
+      "category": "gryskll",
+      "url": "https://houseoffluidreflections.square.site/product/gryskll-gryscale-unisex-tee/RIAW2JYFD3KAF7CTLNTQLVPX",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/SYZU5MS5R2BFP2TFXFJRJJFR.jpeg"
+    },
+    {
+      "name": "GRYSKLL, Bitch Tank Top",
+      "price": "$33.00",
+      "category": "gryskll",
+      "url": "https://houseoffluidreflections.square.site/product/gryskll-bitch-tank-top/JP2VY7SSZCFGRDDP74SZJNYN",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/NRA43ERMEAZWWRIM43Y4CZWZ.jpeg"
+    },
+    {
+      "name": "GRYSKLL, Bitch Cropped Tee",
+      "price": "$29.00",
+      "category": "gryskll",
+      "url": "https://houseoffluidreflections.square.site/product/gryskll-bitch-cropped-tee/SDITD4VHHCRTI4WKOBGJRUGC",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/X6BTUXVB43AOJRDIRSAQQXOU.jpeg"
+    },
+    {
+      "name": "GRYSKLL, Bitch Hoodie",
+      "price": "$59.99",
+      "category": "gryskll",
+      "url": "https://houseoffluidreflections.square.site/product/gryskll-bitch-hoodie/NIHO2ELGQ4HXNBORLCMY75OM",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/LS6W56RESVYL27BREUKNLTMW.jpeg"
+    },
+    {
+      "name": "Dragon's Pitchfork Premium Pillow",
+      "price": "$30.95",
+      "category": "dragons-pitchfork",
+      "url": "https://houseoffluidreflections.square.site/product/dragon-s-pitchfork-premium-pillow/TKSKHAT3OH4RZII3HTDQQHN6",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/V5YUS5QJH6CHC7MBY2ESWLMM.jpeg"
+    },
+    {
+      "name": "Are You Free? Unisex Hoodie",
+      "price": "$59.99",
+      "category": "dragons-pitchfork",
+      "url": "https://houseoffluidreflections.square.site/product/are-you-free-unisex-hoodie/KNDHJD42T5MREX6C5UQIXX2O",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/GU5YYFA46MQPOPN4F4UY7BL4.jpeg"
+    },
+    {
+      "name": "Love You As You Are Hoodie",
+      "price": "$59.99",
+      "category": "classics",
+      "url": "https://houseoffluidreflections.square.site/product/love-you-as-you-are-hoodie/NCKTTSVDRQAPV6ZLXBEIHVKD",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/2OQD2YVTU4IHAPEK7XPY55QJ.jpeg"
+    },
+    {
+      "name": "all follows creation Hoodie",
+      "price": "$59.99",
+      "category": "classics",
+      "url": "https://houseoffluidreflections.square.site/product/all-follows-creation-hoodie/VTLMIUGWRTOFASAHMEGBHFKF",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/7AJ664UO2OP4DIYV2ENHZF2K.jpeg"
+    },
+    {
+      "name": "Bodies of Creation Unisex Hoodie",
+      "price": "$59.99",
+      "category": "classics",
+      "url": "https://houseoffluidreflections.square.site/product/bodies-of-creation-unisex-hoodie/Q4QGZCIMVENN3RG6OMLNOX65",
+      "image": "https://146159230.cdn6.editmysite.com/uploads/1/4/6/1/146159230/B5QHDKRFMPZ2A4HAVS52Z5RE.jpeg"
+    }
+  ]
+}

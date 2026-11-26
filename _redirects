@@ -1,0 +1,24 @@
+# Cloudflare Pages redirects
+# Keeps old Squarespace links working after the domain moves.
+
+# Shop collections from the old site
+/shop/feral-fxckin-fairy        /shop/?c=feral-fxckin-fairy        301
+/shop/portal-projections-x-atd  /shop/?c=portal-projections-x-atd  301
+/shop/mcp-x-we-are-the-ghor     /shop/?c=mcp-x-we-are-the-ghor     301
+# Old Squarespace product pages
+/shop/p/*                       /shop/                             301
+/cart                           https://houseoffluidreflections.square.site/s/shop  302
+
+# Old artist and project pages
+/shaah-music                    /shaah/music/                      301
+/videography                    /shaah/visuals/                    301
+/shaah-photograpy               /shaah/photography/                301
+/shaah-photography              /shaah/photography/                301
+/shaah-gallery                  /shaah/canvas-art/                 301
+/artomatic                      /shaah/                            302
+/pim-art-the-art-of-movement    /yolandamarie/                     302
+/current-projects               /#sonic                            302
+
+# Shortcuts
+/contribute                     https://cash.app/$HFRconnect       302
+/patreon                        https://patreon.com/HouseofFluidReflections  302
